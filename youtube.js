@@ -1,7 +1,7 @@
 const requesst = require("request");
 const getYouTubeID = require('get-yofutube-id');
 
-var yt_api_key = "";
+var yt_api_key = "AIzaSyDFNoGoG5WcqxcKt6DtC8cDz-8gCQy7eLE";
 
 module.exports = {
     setApiKey: function (str) {
